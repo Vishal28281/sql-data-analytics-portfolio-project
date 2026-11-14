@@ -215,24 +215,7 @@ This project demonstrates practical knowledge of the following SQL concepts:
 | Database Objects | CREATE VIEW, DROP VIEW |
 | Advanced Functions | NULLIF(), GETDATE() |
 
-## 📂 Project Structure
 
-```text
-SQL-Data-Analytics-Portfolio/
-│
-├── README.md
-│
-├── SQL-Scripts/
-│   ├── 01_Change_Over_Time_Analysis.sql
-│   ├── 02_Cumulative_Analysis.sql
-│   ├── 03_Performance_Analysis.sql
-│   ├── 04_Part_to_Whole_Analysis.sql
-│   ├── 05_Data_Segmentation.sql
-│   └── 06_Reporting.sql
-│
-└── Screenshots/
-    └── Query_Results/
-```
 
 ## 🎯 Project Objectives
 
